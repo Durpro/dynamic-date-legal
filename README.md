@@ -1,4 +1,15 @@
-# dynamic-date-legal
+# dynamic-date
 Legal and support pages for the Dynamic Date Canva app,
-made by Norman Huang
-email: durpro300@gmail.com , 
+
+made by Norman Huang for Canva
+
+
+email: durpro300@gmail.com 
+
+its cool right?
+
+
+
+
+
+
