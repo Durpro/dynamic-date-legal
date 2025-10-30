@@ -9,8 +9,11 @@ email: durpro300@gmail.com
 its cool right?
 
 legal websites:
+
 https://durpro.github.io/dynamic-date-legal/terms.html
+
 https://durpro.github.io/dynamic-date-legal/privacy.html
+
 https://durpro.github.io/dynamic-date-legal/support.html
 
 
